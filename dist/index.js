@@ -1,2 +1,6 @@
 "use strict";
-let age = 10;
+function calTax(incom) {
+    return incom * 0.1;
+}
+calTax(1000);
+//# sourceMappingURL=index.js.map
